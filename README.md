@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20views&color=0e75b6&style=flat" alt="swati-tanu" /> </p>
 
-- 🔭 I’m currently working on **Advance Javascript**
+🔭 I’m currently working on **Advance Javascript**
 
-- 🌱 I’m currently learning **Node.js, MongoDB, Express.**
+🌱 I’m currently learning **Node.js, MongoDB, Express.**
 
-- 👯 I have done 2 projects from scratch **FashionHub.com, FirstStep.com**
+👯 I have done 2 projects from scratch **FashionHub.com, FirstStep.com**
 
-- 💬 Ask me about **JS, CSS3, HTML5, DSA**
-- 
-[![trophy](https://github-profile-trophy.vercel.app/?Swati-Tanu=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+💬 Ask me about **JS, CSS3, HTML5, DSA**
+
+[![trophy](https://github-profile-trophy.vercel.app/Swati-Tanu=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
