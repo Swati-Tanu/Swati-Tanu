@@ -13,7 +13,7 @@
 
 💬 Ask me about **JS, CSS3, HTML5, DSA**
 
-[![trophy](https://github-profile-trophy.vercel.app/Swati-Tanu=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Swati-Tanuryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
