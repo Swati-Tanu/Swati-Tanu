@@ -11,7 +11,7 @@
 
 - 👯 I have done 2 projects from scratch **FashionHub.com, FirstStep.com**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **JS, CSS3, HTML5, DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
