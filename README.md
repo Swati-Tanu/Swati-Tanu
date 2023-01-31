@@ -13,8 +13,6 @@
 
 💬 Ask me about **JS, CSS3, HTML5, DSA**
 
-[![trophy](https://github-profile-trophy.vercel.app/Swati-Tanuryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tanunest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanunest" height="30" width="40" /></a>
