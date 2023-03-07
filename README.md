@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Node.js, Express.js, JavaScript, HTML, CSS**
 
+- 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
+
  <br>
   
 <h3 align="left">Connect with me:</h3>
