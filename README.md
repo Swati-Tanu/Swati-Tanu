@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20views&color=0e75b6&style=flat" alt="swati-tanu" /> </p>
 
-- 🔭 I’m currently working on **The First Step**
+🔭 I’m currently working on **The First Step**
 
-- 🌱 I’m currently learning **MongoDB**
+🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **Node.js, Express.js, JavaScript, HTML, CSS**
+💬 Ask me about **Node.js, Express.js, JavaScript, HTML, CSS**
 
-- 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
+📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
 
  <br>
   
