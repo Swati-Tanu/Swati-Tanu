@@ -10,7 +10,7 @@
 
 💬 Ask me about **Node.js, Express.js, JavaScript, HTML, CSS**
 
-📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
+<!-- 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a> -->
 
  <br>
   
