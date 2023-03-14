@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **MongoDB**
 
-💬 Ask me about **Node.js, Express.js, JavaScript, HTML5, CSS3, DSA**
+💬 Ask me about **Node.js, MongoDB, JavaScript, HTML5, CSS3, DSA**
 
 <!-- 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a> -->
 
