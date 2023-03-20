@@ -10,7 +10,7 @@
 
 💬 Ask me about **Node.js, MongoDB, JavaScript, HTML5, CSS3, DSA**
 
-<!-- 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a> -->
+📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
 
  <br>
   
