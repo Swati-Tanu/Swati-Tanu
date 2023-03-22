@@ -13,7 +13,6 @@
 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
 
  <br>
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
