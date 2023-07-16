@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **Redpanda**
 
-💬 Ask me about **Node.js, MongoDB, JavaScript, HTML5, CSS3, DSA**
+💬 Ask me about **Backend Development, Frontend Development, DBMS, DSA**
 
 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
 
