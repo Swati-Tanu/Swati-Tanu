@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **Redpanda**
 
-💬 Ask me about **Backend Development, Frontend Development, Data Base Management System, Data Structure and Alogorithm**
+💬 Ask me about **Backend Development, Frontend Development, Data Base Management System,  Data Structures and Algorithms**
 
 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
 
