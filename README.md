@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20views&color=0e75b6&style=flat" alt="swati-tanu" /> </p>
 
-🔭 I’m currently working on **The First Step**
+🔭 I’m currently working on **Backend Development**
 
-🌱 I’m currently learning **MongoDB**
+🌱 I’m currently learning **Redpanda**
 
 💬 Ask me about **Node.js, MongoDB, JavaScript, HTML5, CSS3, DSA**
 
