@@ -12,7 +12,7 @@
 
 📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
 
-**I believe in taking one step at a time.**
+**One step at a time.**
  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
