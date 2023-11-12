@@ -10,7 +10,7 @@
 
 💬 Ask me about **Backend Development, Frontend Development, Data Base Management System,  Data Structures and Algorithms**
 
-📓 View my projects <a href="https://swati-tanu.github.io/" target="_blank">here.</a>
+📓 View my projects <a target="_blank" href="https://swati-tanu.github.io/">here.</a>
 
 **One step at a time.**
  <br>
