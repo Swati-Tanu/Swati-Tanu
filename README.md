@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **Backend Development**
 
-🌱 I’m currently learning **Kafka**
+🌱 I’m currently learning **Python**
 
 💬 Ask me about **Backend Development, Frontend Development, Data Base Management System,  Data Structures and Algorithms**
 
