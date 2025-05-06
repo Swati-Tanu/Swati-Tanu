@@ -20,7 +20,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="mongodb"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg" alt="postgresql"/>  </a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21~bgwhite.svg" alt="redis"/>  </a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="100" height="80"/> </a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="/swagger6360.jpg" alt="swagger" width="100" height="60"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg" alt="docker"/> </a>
 </p>
 
