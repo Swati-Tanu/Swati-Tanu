@@ -15,6 +15,7 @@
 <h3 align="left">Stacks</h3>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="nextjs"/>  </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" alt="react"/>  </a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21~bgwhite.svg" alt="redux"/>  </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="tailwindcss"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="nodejs"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express"/> </a>
