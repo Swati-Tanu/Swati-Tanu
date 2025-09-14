@@ -10,7 +10,7 @@
 🌱 Ask me about <b><i>Backend Development, Frontend Development, Database Management System</i></b>
 </p>
 <br>
-📓 View my projects <a target="_blank" href="https://swati-tanu.github.io/">here.</a>
+📓 View my projects <a target="_blank" href="https://swatitanu.netlify.app/">here.</a>
 
 <h3 align="left">Stacks</h3>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="nextjs"/>  </a>
