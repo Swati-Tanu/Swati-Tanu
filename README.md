@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Swati Tanu</h1>
-<h4 align="center">A solution-driven Software Developer with a curious mind, an absolute passion for coding and the ability to write clean, efficient and production-ready code.</h4>
+<h4 align="center">A solution-driven Software Engineer with a curious mind, an absolute passion for coding and the ability to write clean, efficient and production-ready code.</h4>
 
 <div>
 <img align="left" src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20views&color=0e75b6&style=flat" alt="swati-tanu" /> 
