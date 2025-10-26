@@ -24,6 +24,8 @@
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21~bgwhite.svg" alt="redis"/>  </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="/swagger6360.jpg" alt="swagger" width="100" height="60"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg" alt="docker"/> </a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg" alt="typescript"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="javascript"/> </a>
 </p>
 
 <h3 align="left">Stats</h3>
