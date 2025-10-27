@@ -31,4 +31,4 @@
 <h3 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swati-tanu&show_icons=true&locale=en&layout=compact" alt="swati-tanu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swati-tanu&show_icons=true&locale=en" alt="swati-tanu" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati-tanu" alt="swati-tanu" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati-tanu" alt="swati-tanu" /></a> </p> -->
