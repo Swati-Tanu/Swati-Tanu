@@ -19,6 +19,7 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views"/>
 </div>
+<br/>
 
 <div align="center">
   <img src="Image.png" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
